@@ -1,11 +1,11 @@
 # transition-property
 
-`transition-property` transparent mixin.
+`transition-property` transparent mixin
 
-## Installation
+## Usage
 
-```sh
-$ npm install git://github.com/shoelace-ui/transition-property.git
+```stylus
+@require 'shoelace-ui-transition-property'
 ```
 
 ## License

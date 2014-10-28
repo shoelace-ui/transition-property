@@ -1,11 +1,23 @@
 {
-  "name" : "shoelace-ui-transition-property",
-  "version" : "0.0.1",
-  "description" : "`transition-property` transparent mixin",
-  "repository" : "https://github.com/shoelace-ui/transition-property.git",
-  "keywords" : ["stylus", "shoelace", "transition", "property"],
-  "author" : "Michael Andrew Vanasse <mail@mndvns.com>",
-  "license" : "MIT",
+  "name": "shoelace-ui-transition-property",
+  "version": "0.1.0",
+  "description": "`transition-property` transparent mixin",
+  "author": "Michael Andrew Vanasse <mail@mndvns.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/shoelace-ui/transition-property"
+  },
+  "homepage": "https://github.com/shoelace-ui/transition-property",
+  "keywords": [
+    "stylus",
+    "shoelace",
+    "transition",
+    "property"
+  ],
   "dependencies": {
+  },
+  "bugs": {
+    "url": "https://github.com/shoelace-ui/transition-property/issues"
   }
 }
